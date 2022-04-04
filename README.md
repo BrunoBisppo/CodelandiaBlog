@@ -1,5 +1,6 @@
 # Olá Bem-Vindo 
-# Este é um exemplo do blog responssivo bem simples feito com 
+# Este é um exemplo do blog responssivo feito com 
+
 # HTML e CSS puro
 
 A ideia deste blog foi pego no discord:
