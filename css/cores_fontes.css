@@ -1,0 +1,17 @@
+:root {
+    --blue: #3EA1DB;
+    --blue-dark: #574AE8;
+    --white: #FFF;
+  
+    --title: #313131;
+    --text: #e9e9e9;
+    
+    --linear: linear-gradient(90deg, #574AE8 0%, #3EA1DB 200%);
+    --linear-pesquisa: linear-gradient(90deg, #574AE8 0%, #3EA1DB 200%);
+  
+    /*color: var(--cor-principal);*/
+  }
+
+  @import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+
+  /* font-family: 'Lexend Deca', sans-serif; */
