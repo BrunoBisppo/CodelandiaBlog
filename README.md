@@ -1,5 +1,6 @@
 # Olá Bem-Vindo este é um Blog Responsivo
-# Feito com HTML e CSS puro
+
+Usando somente html e css
 
 A ideia deste blog foi pego no discord:
 
